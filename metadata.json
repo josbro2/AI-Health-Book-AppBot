@@ -1,0 +1,7 @@
+{
+  "name": "AI Healthcare Assistant",
+  "description": "A production-ready healthcare chatbot powered by Gemini, featuring voice input/output, multi-language support, and emergency detection. This application is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
